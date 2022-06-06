@@ -49,7 +49,7 @@ plt.imshow(image1)
 ## Output:
 
 ### Display the input Image
-![output](11a.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Opening-and-Closing/blob/a36578860831aaa648ec5e8dfe2c04dd954c3c8d/11a.PNG)
 ### Display the result of Opening
 ![output](11b.png)
 ### Display the result of Closing
