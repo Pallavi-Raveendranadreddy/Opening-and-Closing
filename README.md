@@ -51,7 +51,7 @@ plt.imshow(image1)
 ### Display the input Image
 ![output](https://github.com/Pallavi-Raveendranadreddy/Opening-and-Closing/blob/a36578860831aaa648ec5e8dfe2c04dd954c3c8d/11a.PNG)
 ### Display the result of Opening
-![output](11b.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Opening-and-Closing/blob/41389e02cb56964d67aad534382246de0decfd4b/11b.PNG)
 ### Display the result of Closing
 ![output](11c.png)
 ## Result
